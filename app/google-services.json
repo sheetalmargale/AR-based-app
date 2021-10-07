@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171937338251",
+    "project_id": "dmodel-app",
+    "storage_bucket": "dmodel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171937338251:android:125a742bfaf90aebf7958e",
+        "android_client_info": {
+          "package_name": "com.example.a3dmodelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171937338251-adipbqccta2lmqap9ovted539gr3bfj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQoN7dWDWwonqkHi_MbuvAEPZFlEEBjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171937338251-adipbqccta2lmqap9ovted539gr3bfj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
